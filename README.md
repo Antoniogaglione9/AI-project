@@ -1,8 +1,14 @@
 # AI course project
-Dataset : [kaggle link](https://www.kaggle.com/datasets/rm1000/grape-disease-dataset-original)
 
-Model : VGG16
+**Dataset** : [Grape Disease Dataset (Kaggle)](https://www.kaggle.com/datasets/rm1000/grape-disease-dataset-original)  
+**Model**   : VGG 16  
+**Training**: 4× NVIDIA V100 (32 GB)  
+**Weights & Biases run** : [Project dashboard](https://wandb.ai/sergey-khvan/grape-classification?nw=nwusersergeykhvan)
 
-Training : 4xV100(32GB)
+---
 
-Weights and Biases: [link](https://wandb.ai/sergey-khvan/grape-classification?nw=nwusersergeykhvan)
+## Authors
+
+- **Antonio Gaglione**
+- **Iegor Toporov**
+- **Sergey Khvan**
